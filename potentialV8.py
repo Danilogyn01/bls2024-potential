@@ -1,4 +1,4 @@
-from fenics import * #ARRUMAR
+from fenics import *
 import numpy, time, random, sys, os
 from prettytable import PrettyTable
 import gfort2py as gf
